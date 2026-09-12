@@ -94,7 +94,7 @@ def sentences(t):
 
 NOT_ADVERBS = {
     'only', 'early', 'family', 'apply', 'supply', 'reply', 'comply', 'imply', 'multiply', 'rely',
-    'italy', 'july', 'ugly', 'silly', 'holy', 'jolly', 'ally', 'rally', 'belly', 'jelly', 'anomaly',
+    'italy', 'july', 'ugly', 'silly', 'holy', 'jolly', 'ally', 'rally', 'belly', 'underbelly', 'jelly', 'anomaly',
     'assembly', 'monopoly', 'panoply', 'melancholy', 'friendly', 'lovely', 'lonely', 'costly',
     'timely', 'orderly', 'elderly', 'deadly', 'worldly', 'homely', 'lively', 'manly', 'curly',
     'burly', 'surly', 'hilly', 'chilly', 'wobbly', 'bubbly', 'fly', 'ply', 'sly', 'shy', 'ally',
